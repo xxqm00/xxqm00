@@ -1,11 +1,7 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### Mainly all my projects here are Linux related (Hyprland dotfiles, scripts, etc.)
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
-
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `.toml`, `.js`, `.html`, `.css`, `.svg`,
+- 🌍 I'm mostly active on discord **(a3az)**, but you can email me. 
+- I hope that you enjoy what I've created!
