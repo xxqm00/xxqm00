@@ -1,5 +1,7 @@
-<img src="https://i.imgur.com/EmOpeJh.gif" width="100%" height="auto" />
+<img src="https://i.imgur.com/EmOpeJh.gif" width="60%" height="auto" />
+
 ### Konichiwassup!
+
 #### Mainly all my projects here are Linux related (Hyprland dotfiles, scripts, etc.)
 
 - ⚙️ I use daily: `.toml`, `.js`, `.html`, `.css`, `.svg`,
