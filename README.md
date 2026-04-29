@@ -5,4 +5,4 @@
 - ⚙️ I use daily: `.toml`, `.js`, `.html`, `.css`, `.svg`,
 - 🌍 I'm mostly active on discord **(a3az)**, but you can email me. 
 - I hope that you enjoy what I've created!
-![Alt Text](https://imgur.com/Otf3RXi) 
+![Alt Text](https://i.imgur.com/Otf3RXi.jpeg) 
